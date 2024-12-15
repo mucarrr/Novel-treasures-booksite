@@ -1,0 +1,204 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": "1960",
+      "page": "281",
+      "price": "$10.99",
+      "description": "A novel about the serious issues of rape and racial inequality.",
+      "image": "https://picsum.photos/600"
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "year": "1949",
+      "page": "328",
+      "price": "$9.99",
+      "description": "A dystopian novel set in a totalitarian regime under constant surveillance.",
+      "image": "https://picsum.photos/601"
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": "1925",
+      "page": "180",
+      "price": "$8.99",
+      "description": "A story of wealth, love, and the American dream in the 1920s.",
+      "image": "https://picsum.photos/602"
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": "1813",
+      "page": "279",
+      "price": "$12.99",
+      "description": "A romantic novel about manners, marriage, and societal expectations.",
+      "image": "https://picsum.photos/603"
+    },
+    {
+      "id": "5",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": "1951",
+      "page": "214",
+      "price": "$7.99",
+      "description": "The experiences of a young boy in New York City as he struggles with growing up.",
+      "image": "https://picsum.photos/604"
+    },
+    {
+      "id": "6",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "year": "1851",
+      "page": "585",
+      "price": "$11.99",
+      "description": "The quest of Captain Ahab for revenge against the white whale.",
+      "image": "https://picsum.photos/605"
+    },
+    {
+      "id": "7",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year": "1954",
+      "page": "1178",
+      "price": "$15.99",
+      "description": "An epic fantasy novel about the journey to destroy the One Ring.",
+      "image": "https://picsum.photos/606"
+    },
+    {
+      "id": "8",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "year": "1997",
+      "page": "309",
+      "price": "$14.99",
+      "description": "The story of a young wizard's first year at Hogwarts School of Witchcraft and Wizardry.",
+      "image": "https://picsum.photos/607"
+    },
+    {
+      "id": "9",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": "1988",
+      "page": "197",
+      "price": "$10.99",
+      "description": "A philosophical novel about following your dreams.",
+      "image": "https://picsum.photos/608"
+    },
+    {
+      "id": "10",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "year": "1869",
+      "page": "1225",
+      "price": "$19.99",
+      "description": "A historical novel that follows the lives of five families during the Napoleonic Wars.",
+      "image": "https://picsum.photos/609"
+    },
+    {
+      "id": "11",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "year": "1866",
+      "page": "430",
+      "price": "$13.99",
+      "description": "A psychological drama about a man who commits murder and deals with the consequences.",
+      "image": "https://picsum.photos/610"
+    },
+    {
+      "id": "12",
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "year": "1605",
+      "page": "863",
+      "price": "$14.99",
+      "description": "The adventures of a man who believes he is a knight, and his loyal squire.",
+      "image": "https://picsum.photos/611"
+    },
+    {
+      "id": "13",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "year": "8th century BC",
+      "page": "541",
+      "price": "$9.99",
+      "description": "The epic journey of Odysseus as he returns home from the Trojan War.",
+      "image": "https://picsum.photos/612"
+    },
+    {
+      "id": "14",
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "year": "1922",
+      "page": "730",
+      "price": "$16.99",
+      "description": "A modernist novel that parallels the structure of Homer's Odyssey.",
+      "image": "https://picsum.photos/613"
+    },
+    {
+      "id": "15",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "year": "1880",
+      "page": "796",
+      "price": "$15.99",
+      "description": "A philosophical and spiritual drama about morality and family.",
+      "image": "https://picsum.photos/614"
+    },
+    {
+      "id": "16",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "year": "1890",
+      "page": "254",
+      "price": "$8.99",
+      "description": "A story about vanity, moral corruption, and the pursuit of eternal youth.",
+      "image": "https://picsum.photos/615"
+    },
+    {
+      "id": "17",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "year": "1818",
+      "page": "280",
+      "price": "$10.99",
+      "description": "A gothic novel about the consequences of creating life.",
+      "image": "https://picsum.photos/616"
+    },
+    {
+      "id": "18",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year": "1932",
+      "page": "268",
+      "price": "$9.99",
+      "description": "A dystopian novel about a genetically engineered society.",
+      "image": "https://picsum.photos/617"
+    },
+    {
+      "id": "19",
+      "title": "Jane Eyre",
+      "author": "Charlotte Bronte",
+      "year": "1847",
+      "page": "500",
+      "price": "$12.99",
+      "description": "The experiences of a young woman as she grows up and falls in love.",
+      "image": "https://picsum.photos/618"
+    },
+    {
+      "id": "20",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "year": "161 AD",
+      "page": "304",
+      "price": "$10.99",
+      "description": "A series of personal writings by the Roman emperor on Stoic philosophy.",
+      "image": "https://picsum.photos/619"
+    }
+  ]
+}
